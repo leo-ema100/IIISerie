@@ -1,3 +1,17 @@
+# III SERIE
+
+## Necesitamos descargar 2 imagenes postgres dpage/pgadmin4 en los archivos .env y docker-compose
+## Archivo .env contiene la siguiente informacion
+![image](https://github.com/user-attachments/assets/86771802-ecaa-4306-9843-37e882ec2a14)
+## Archivo docker-compose contiene 2 servicios uno para la db y el otro para la gestion de postgress por medio de pgadmin ahi colocamos el puerto 5050 iniciamos sesion contraseña, informacion de la BD y ya podemos entrar.
+![image](https://github.com/user-attachments/assets/da46e6f9-11db-4f03-95b9-ef39674e3993)
+
+## Creacion de la Entidad
+### Creamos nuestra entidad con el nombre de gestion_empleados, seleccionamos la opción REST API y seleccionamos si para que cree el CRUD
+![image](https://github.com/user-attachments/assets/ece2916c-a5e5-40d8-9e44-c01012aefd77)
+### Añadimos los atributos a la tabla
+![image](https://github.com/user-attachments/assets/3ea6d35e-15e8-49ec-b551-529d3dfa4377)
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
@@ -83,3 +97,5 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+
