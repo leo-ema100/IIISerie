@@ -12,6 +12,10 @@
 ### Añadimos los atributos a la tabla
 ![image](https://github.com/user-attachments/assets/3ea6d35e-15e8-49ec-b551-529d3dfa4377)
 
+## Corremos los servicios db y pgadmin
+![image](https://github.com/user-attachments/assets/0db79c78-9f5f-446f-b220-e296f3394a67)
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
